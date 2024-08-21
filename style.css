@@ -1,0 +1,67 @@
+
+
+.jumbotron{
+    background-color: #e71a2b;
+    background-size: cover;
+    padding-top: 6rem;
+}
+.display-4{
+color: #ffffff;
+
+}
+body{
+    background-color: #040204;
+
+}
+
+.lead{
+color: #ffffff;
+}
+
+#about{
+ padding-top: 6rem;   
+
+}
+.p{
+    text-align: center;
+}
+ 
+#project{
+    padding-top: 6rem;   
+
+}
+footer{
+background-color: #e71a2b;
+text-align: center;
+font-size: 1em;
+font-family: 'poppins', sans-serif;
+height: 5vh;
+}
+.gif {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+
+}
+.kocak {
+width: 600px;
+height: auto;
+}
+ svg{
+ margin-top: -1px;
+
+ }
+ p{
+    color: #ffffff;
+ }
+ 
+ .card-text{
+    color: black;
+ }
+ 
+ .tombol{
+    text-align: center;
+
+
+ }
